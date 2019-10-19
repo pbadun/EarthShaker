@@ -1,0 +1,8 @@
+<resources>
+
+    <string name="app_name">Earth Shaker</string>
+    <string name="ad_key">ca-app-pub-4157203429915172~7934379983</string>
+    <string name="ad_bannet">ca-app-pub-4157203429915172/8676083182</string>
+    <string name="ad_test_device">1E2427E4EC1CD5CDB8B783F635FA02FC</string>
+
+</resources>
